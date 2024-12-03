@@ -1,0 +1,2 @@
+# Interface-triagem-medica-IA
+ Projeto desenvolvido para a disciplina SEL-0421 Sistemas Inteligentes, com o objetivo de desenvolver uma rede neural (PMC) para identificar o grau de urgência de um paciênte, de acordo com o protocolo de Manchester, durante o processo de triagem médica. Para melhorar a comunicação entre usuário-maquina foi desenvolvido uma interface gráfica para ser mais amigável a  inserção de dados na rede e a visualização de sua saída.
